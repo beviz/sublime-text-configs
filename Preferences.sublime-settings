@@ -1,0 +1,70 @@
+{
+	"color_scheme": "Packages/Colorcoder/Monokai (Colorcoded).tmTheme",
+	"draw_white_space": "all",
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		"tags",
+		"*.log"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".sass-cache",
+		"tmp/cache",
+		"/tags",
+		"public/assets",
+		"www/assets",
+		"coverage",
+		"tmp/deploy"
+	],
+	"font_face": "monaco",
+	"font_size": 14,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Schemr",
+		"SideBarEnhancements",
+		"Vintage",
+		"SublimeLinter-contrib-scss-lint",
+		"RubyTest",
+		"SassBeautify",
+		"MarkdownTOC",
+		"TrailingSpaces",
+		"SublimeLinter"
+	],
+	"original_color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"rulers":
+	[
+		100
+	],
+	"show_encoding": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
+}

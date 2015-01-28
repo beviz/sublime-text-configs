@@ -1,0 +1,60 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
+	"installed_packages":
+	[
+		"AlignTab",
+		"All Autocomplete",
+		"ApplySyntax",
+		"Base16 Color Schemes",
+		"Better CoffeeScript",
+		"Boron Color Scheme",
+		"Case Conversion",
+		"Colorcoder",
+		"CSScomb",
+		"Devastate",
+		"DictionaryAutoComplete",
+		"Emmet",
+		"EncodingHelper",
+		"FullScreenStatus",
+		"GitGutter",
+		"Harper Color Scheme",
+		"INI",
+		"Jade",
+		"Javascript Beautify",
+		"JavaScriptNext - ES6 Syntax",
+		"JsFormat",
+		"LESS",
+		"MarkdownEditing",
+		"MarkdownTOC",
+		"nginx",
+		"Package Control",
+		"Pretty JSON",
+		"Rails Latest Migration",
+		"RSpec",
+		"rsub",
+		"SassBeautify",
+		"Schemr",
+		"ScopeHunter",
+		"SCSS",
+		"SideBarEnhancements",
+		"SSH Config",
+		"SublimeERB",
+		"SublimeLinter",
+		"SublimeLinter-coffeelint",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-rubocop",
+		"Syntax Manager",
+		"Table Editor",
+		"Tag",
+		"TrailingSpaces",
+		"Typewriter"
+	]
+}
