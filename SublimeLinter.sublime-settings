@@ -1,6 +1,6 @@
 {
     "user": {
-        "debug": false,
+        "debug": true,
         "delay": 0.25,
         "error_color": "D02000",
         "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
@@ -10,6 +10,13 @@
             "coffeelint": {
                 "@disable": false,
                 "args": [],
+                "excludes": []
+            },
+            "eslint": {
+                "@disable": false,
+                "args": [
+                    "--config /Users/bevis/Workspace/bsb/web/.eslintrc"
+                ],
                 "excludes": []
             },
             "htmltidy": {
@@ -30,10 +37,21 @@
                 "exclude-linter": "",
                 "excludes": [],
                 "include-linter": ""
+            },
+            "standard": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "stylelint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
             }
         },
         "mark_style": "outline",
         "no_column_highlights_line": false,
+        "passive_warnings": false,
         "paths": {
             "linux": [],
             "osx": [],
